@@ -7,7 +7,7 @@ This is a minimal setup for Cross Compiling SDL2. It should be easy to install a
 Open a terminal and run the following command to install the SDL2 library:
 
 ```bash
-git clone
+$ git clone https://github.com/nnamdiokpala/sdl2-minimal
 ```
 
 ## Step 2: Compile the program
